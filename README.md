@@ -1,1 +1,0 @@
-CSC413 - Deep Learning and Neural Networks
